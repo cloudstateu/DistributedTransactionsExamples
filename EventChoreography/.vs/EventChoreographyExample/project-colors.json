@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "bb483ff7-a504-4ebd-b1ac-c509912aed45": {
+      "ProjectGuid": "bb483ff7-a504-4ebd-b1ac-c509912aed45",
+      "DisplayName": "EventChoreographyExample",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
